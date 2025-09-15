@@ -1,0 +1,73 @@
+export const portfolioData = {
+  name: "Mark Anthony A. Udarbe",
+  contact: {
+    location: "Brgy. Pansol, Pila, Laguna",
+    phone: "0955-836-2574",
+    email: "markanthonyudarbe19@gmail.com",
+  },
+  summary:
+    "Software Developer with 3+ years of experience in designing and developing scalable web applications and APIs using Laravel, ReactJS, and Go. Skilled in clean coding, debugging, and cross-functional collaboration. Adept at delivering efficient solutions, providing technical support, and ensuring high-quality deployments. Passionate about continuous learning and building innovative systems to drive business growth.",
+  skills: [
+    "PHP",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Go",
+    "C#",
+    "Laravel",
+    "ReactJS",
+    "Spring Boot",
+    "Git",
+    "Postman",
+    "Vagrant",
+    "VirtualBox",
+    "Homestead",
+    "SourceTree",
+    "Heroku",
+    "VSCode",
+    "Selenium",
+    "OS installation",
+    "System Support",
+  ],
+  experience: [
+    {
+      role: "Software Developer",
+      company: "Bounty Plus Inc.",
+      period: "Jan 2023 – Present",
+      responsibilities: [
+        "Designed, developed, and maintained internal applications, including the Bounty Oyster System (BOS).",
+        "Built and optimized features using PHP, JavaScript, and REST APIs to improve operational efficiency.",
+        "Collaborated with business analysts, QA, and operations to ensure smooth deployments.",
+        "Created technical documentation including workflows, change logs, and user guides.",
+        "Led manual and automated testing, identifying and resolving defects to ensure high-quality releases.",
+        "Provided timely technical support and issue resolution for internal stakeholders.",
+      ],
+    },
+    {
+      role: "Web Developer (Laravel)",
+      company: "Hivelabs Technologies Corp",
+      period: "Dec 2020 – Sept 2022",
+      responsibilities: [
+        "Developed and deployed Delivery App and ROI Calculator (Go API).",
+        "Handled web coding, testing, debugging, and documentation to meet client requirements.",
+        "Coordinated with internal teams on new deployments and project workflows.",
+        "Contributed to project scheduling and helped train OJTs and trainees.",
+      ],
+    },
+    {
+      role: "Photographer",
+      company: "VIEWTRUE Express Digital Imaging",
+      period: "Oct 2018 – Feb 2019",
+      responsibilities: [
+        "Captured and promoted photos for tourists across theme parks and resorts.",
+        "Managed daily sales, customer interactions, and inventory tracking.",
+      ],
+    },
+  ],
+  education: {
+    university: "Laguna University",
+    degree: "Bachelor of Science in Information Technology",
+    period: "2014 – 2018",
+  },
+  references: "Available upon request",
+};
